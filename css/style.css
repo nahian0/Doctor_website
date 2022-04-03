@@ -22,7 +22,7 @@ body {
   color: #777777;
   line-height: 1.8em;
   font-weight: 400;
-  background: #d8dbc9;
+  background: #eaf8a5;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -60,13 +60,13 @@ p {
 .section-title h3 {
   font-size: 40px;
   line-height: 50px;
-  color: #222222;
+  color: #ef4c4c;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
 
 .section-title span {
-  color: #222222;
+  color: #6b8ecf;
   font-weight: 400;
 }
 
@@ -233,14 +233,14 @@ li {
 }
 
 .header-top {
-  background: #25cece;
+  background: #26c8ed;
   border-bottom: 1px solid #db8181;
 }
 
 .header-top .top-left h6 {
   font-size: 15px;
   line-height: 26px;
-  color: #777777;
+  color: #f6f9fa;
   font-weight: 400;
   padding: 14px 0px;
   font-family: "Roboto", sans-serif;
